@@ -5,8 +5,8 @@ like these:
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| ![plant](images/plant.svg) | ![bush](images/bush.svg) | ![dragon](images/dragon.svg) | ![snowflake](images/snowflake.svg) |
-| ![hilbert](images/hilbert.svg) | ![sierpinski](images/sierpinski.svg) | ![koch](images/koch.svg) | |
+| ![plant](examples/plant.svg) | ![bush](examples/bush.svg) | ![dragon](examples/dragon.svg) | ![snowflake](examples/snowflake.svg) |
+| ![hilbert](examples/hilbert.svg) | ![sierpinski](examples/sierpinski.svg) | ![koch](examples/koch.svg) | |
 
 Every one of these pictures comes from a single line of rules and a few lines
 of Haskell. There are no graphics libraries involved. Your program will write
